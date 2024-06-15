@@ -1,4 +1,4 @@
-# RESTful-Book-Finder
+# Apollo-Book-Finder
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Decription
@@ -80,10 +80,10 @@ No self tests exist for this project.
 Open the website, sign-up, search for a book you would like and save the book. You can then find it in the 'Saved Books' page.
 
 ## GitHub repository
-You can find the GitHub repository [here.](https://github.com/JakebJackson/RESTful-Book-Finder)
+You can find the GitHub repository [here.](https://github.com/JakebJackson/Apollo-Book-Finder)
 
 ## Deployed Application
-The deployed application can be found [here.](TBD)
+The deployed application can be found [here.](https://apollo-book-finder.onrender.com)
 
 ## Licence
 

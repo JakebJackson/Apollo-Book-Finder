@@ -1,5 +1,5 @@
 {
-  "name": "restful-book-finder",
+  "name": "apollo-book-finder",
   "version": "1.0.0",
   "description": "A basic book finder and saver to ensure a user can save and find books to purchase.",
   "main": "server/server.js",

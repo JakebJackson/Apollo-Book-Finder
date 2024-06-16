@@ -2,7 +2,7 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Decription
-A basic book finder that allows users to save books to their account.
+A basic book finder that allows users to save and delete books to and from their account.
 
 ## Table of Contents 
 
@@ -17,6 +17,8 @@ A basic book finder that allows users to save books to their account.
 * [Usage](#usage)
 
 * [Deployed Application](#deployed-application)
+
+* [Screenshots/Video](<#screenshots--video-of-completed-challenge>)
 
 * [License](#license)
 
@@ -84,6 +86,9 @@ You can find the GitHub repository [here.](https://github.com/JakebJackson/Apoll
 
 ## Deployed Application
 The deployed application can be found [here.](https://apollo-book-finder.onrender.com)
+
+## Screenshot
+![Deployed Application](./images/Apollo-Book-Finder-Screenshot.png)
 
 ## Licence
 
